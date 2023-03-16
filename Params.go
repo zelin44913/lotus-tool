@@ -1,4 +1,4 @@
-package diycli
+package lotustool
 
 import (
 	"bytes"
